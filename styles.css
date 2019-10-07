@@ -1,0 +1,45 @@
+/* Type */
+
+body {
+	background-color: greenyellow;
+	color: tan;
+	font-family: sans-serif;
+	line-height: 10px;
+	transform: rotate(180deg);
+}
+div.a {
+  transform: rotate(135deg);
+  color: slateblue;
+  font-size: 30px;
+  text-shadow: 5px 5px purple;
+  }
+div.b {
+	color: DodgerBlue;
+	transform: rotate(130deg) skewY(30deg);
+   filter: blur(2px);
+
+
+}
+div.c{
+	color: black;
+	transform: rotate(30deg) scale(12);
+	word-spacing: -15px;
+	text-shadow: 2px 2px red;
+
+}
+div.d{
+	font-family: 'Turret Road', cursive;
+	font-size: 60px;
+	line-height: 2em;
+	text-shadow: 3px 4px grey;
+
+
+}
+div.e{
+	color: OrangeRed;
+	border-style: dotted; 
+	border-color: yellow;
+	border-spacing: 15px;
+	line-height: 30px;
+	transform: rotate(76deg);
+}
